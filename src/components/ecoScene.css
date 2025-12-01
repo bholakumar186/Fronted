@@ -1,0 +1,105 @@
+.eco-scene-container {
+  width: 40rem;
+  /* max-width: 50rem;  */
+  margin: 0 auto;
+}
+
+/* @media (min-width: 900px) {
+  .eco-scene-container {
+    max-width: 35rem;
+  }
+}
+
+
+
+@media (min-width: 1536px) {
+  .eco-scene-container {
+    max-width: 40rem;
+  }
+}
+
+@media (min-width: 600px) {
+  .eco-scene-container {
+    max-width: 35rem;
+  }
+} */
+
+@media (min-width: 1200px) {
+  .eco-scene-container {
+    max-width: 60rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .eco-scene-container {
+    max-width: 60rem;
+  }
+}
+
+
+.eco-scene-container svg {
+  display: block;
+  width: 80%;
+  height: auto;
+}
+
+/* ==============================
+   1. Wind Turbine Blades Animation
+   ============================== */
+
+/* Define rotation animation */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Apply animation to each turbine's blades */
+.blades-1,
+.blades-2,
+.blades-3 {
+  /* CRITICAL FIX ⚙️
+     Use transform-box: fill-box and transform-origin: center 
+     to ensure blades rotate around their own hub, not the SVG origin. */
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: spin 6s linear infinite;
+}
+
+/* Fine-tune speeds for variety */
+.blades-2 {
+  animation-duration: 4s; /* Faster spin */
+}
+
+.blades-3 {
+  animation-duration: 8s; /* Slower spin */
+}
+
+/* ==============================
+   2. Charging Indicator Animation
+   ============================== */
+
+/* Define blinking/charging animation */
+@keyframes charge-pulse {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 1; }
+}
+
+/* Apply animation to charge indicator bars */
+.charge-1,
+.charge-2,
+.charge-3,
+.charge-4,
+.charge-5 {
+  opacity: 0.2; /* Start dim */
+  animation: charge-pulse 1s ease-in-out infinite alternate;
+}
+
+/* Stagger each bar for a smooth sequential charging effect */
+.charge-2 { animation-delay: 0.2s; }
+.charge-3 { animation-delay: 0.4s; }
+.charge-4 { animation-delay: 0.6s; }
+.charge-5 { animation-delay: 0.8s; }

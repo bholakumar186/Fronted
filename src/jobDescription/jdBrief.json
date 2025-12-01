@@ -1,0 +1,202 @@
+{
+    "jobs": [
+        {
+            "job_title": "Office Boy / Helper",
+            "brief": "Keep the office running—cleanliness, pantry, file movement, and routine assistance to staff.",
+            "job_description": "Support office upkeep and routine assistance to staff, ensuring cleanliness and timely help. Responsibilities include maintaining office cleanliness and pantry, delivering files, assisting staff, and handling basic errands/couriers.",
+            "salary_range": "₹1,80,000–₹2,16,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 260,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Cleaner / Housekeeping Staff",
+            "brief": "Maintain hygiene across office/site facilities with disciplined daily cleaning and waste disposal.",
+            "job_description": "Maintain cleanliness and hygiene across office/site facilities with discipline and reliability. Duties include daily cleaning and waste disposal, pantry/meeting support, and following basic hygiene and safety practices.",
+            "salary_range": "₹1,80,000–₹2,16,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 510,
+            "age_range": "19–35 years"
+        },
+        {
+            "job_title": "Security Guard",
+            "brief": "Protect premises—control entry, patrol, log incidents, and support emergency response.",
+            "job_description": "Safeguard premises, control entry/exit, and monitor security procedures. Responsibilities include access control and patrolling, incident logging/reporting, and coordination during emergencies.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 250,
+            "age_range": "21–45 years"
+        },
+        {
+            "job_title": "Data Entry Operator",
+            "brief": "Accurate data entry and record maintenance with basic reporting in MS Office.",
+            "job_description": "Enter and verify data with accuracy; maintain records and generate routine reports. Tasks include data entry/validation, maintaining spreadsheets/documents, and supporting reporting and filing.",
+            "salary_range": "₹2,00,000–₹2,40,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 110,
+            "age_range": "19–35 years"
+        },
+        {
+            "job_title": "Storekeeper",
+            "brief": "Run site/project stores—GRN/issue, stock records, and reconciliation with basic Excel.",
+            "job_description": "Manage receipts, issues, and stock records for project/site stores with accuracy and discipline. Maintain GRN/issue registers and bin cards, perform cycle counts and stock reconciliation, and coordinate with procurement/site teams.",
+            "salary_range": "₹2,40,000–₹2,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 48,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Line Man (Electrical/Solar)",
+            "brief": "Assist line erection and maintenance; wiring at heights using proper safety gear.",
+            "job_description": "Perform line work including wiring at heights with proper safety harness and standards. Assist in line erection/maintenance, handle tools and basic wiring, and follow line-safety practices.",
+            "salary_range": "₹2,40,000–₹2,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 510,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Electrician",
+            "brief": "Panel wiring, terminations, and basic electrical maintenance for solar/industrial sites.",
+            "job_description": "Support electrical works in solar projects and facilities, including wiring, terminations, and basic maintenance. Assist in testing/troubleshooting and follow electrical safety procedures.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 730,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "O&M Technician (Solar)",
+            "brief": "Execute routine solar plant maintenance—checks, cleaning, inverter/HT panel support.",
+            "job_description": "Execute maintenance tasks in solar plants under O&M engineers to maintain uptime and safety. Perform routine checks/cleaning, assist in inverter/HT panel maintenance, record readings, and support fault repair.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 40,
+            "age_range": "22–35 years"
+        },
+        {
+            "job_title": "Junior Accountant Clerk",
+            "brief": "Voucher entry, reconciliations, and file management using Tally and Excel.",
+            "job_description": "Assist accounts team with entries, vouchers, reconciliations, and basic compliance. Record vouchers/expenses, perform bank/vendor reconciliations, maintain files, and assist audits.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 60,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Computer Operator",
+            "brief": "Prepare documents and reports in MS Word/Excel; maintain digital records and prints.",
+            "job_description": "Provide computer and office software support including data preparation, formatting, and prints. Operate MS Word/Excel, prepare reports/letters, and maintain digital records/backups.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 80,
+            "age_range": "19–35 years"
+        },
+        {
+            "job_title": "Technician (Grade) – Substation",
+            "brief": "Operate and maintain HT/LT switchgear and substation equipment safely under SOPs.",
+            "job_description": "Operate and maintain HT/LT switchgear and substation equipment safely and reliably. Operate SF6/VCB/ACB breakers/relays, follow PTW/safety procedures, read diagrams/SOPs, and log events.",
+            "salary_range": "₹2,82,000–₹3,00,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 52,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Solar Technician / Installer",
+            "brief": "Install modules, mounts, and DC/AC wiring; follow HSE and assist testing.",
+            "job_description": "Carry out on-site installation of solar components and assist engineers in wiring, fixing, and basic testing. Responsibilities include installing modules/mounts/conduits, assisting DC/AC terminations, following HSE, and tool upkeep/housekeeping.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 240,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Civil Supervisor",
+            "brief": "Supervise site civil works—foundations/RCC—ensuring quality, drawings, and safety compliance.",
+            "job_description": "Supervise civil works at project sites ensuring adherence to drawings, quality, and safety standards. Oversee excavation, foundations, RCC works; verify against drawings/BOQ; maintain QA/Safety checks and daily progress reports.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 62,
+            "age_range": "21–35 years"
+        },
+        {
+            "job_title": "Sales Executive (Solar/Industrial/Retail)",
+            "brief": "Field sales—prospect, pitch, close, and maintain CRM for solar/industrial offerings.",
+            "job_description": "Generate and close sales for solar/industrial offerings with field outreach and lead management. Identify prospects, conduct meetings, prepare quotes, close orders, maintain MIS/CRM, and coordinate post-sales handover.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 210,
+            "age_range": "22–35 years"
+        },
+        {
+            "job_title": "Fire Fighting Technician",
+            "brief": "Maintain fire pumps, alarms, and extinguishers; support drills and NBC/IS compliance.",
+            "job_description": "Install and maintain fire protection systems complying with NBC/IS codes. Maintain fire pumps, alarm panels, extinguishers; assist in fire drills/inspections; keep records and safety compliance.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 55,
+            "age_range": "25–35 years"
+        },
+        {
+            "job_title": "Technician Supervisor",
+            "brief": "Supervise electrical/mechanical technicians; ensure workmanship, safety, and daily reporting.",
+            "job_description": "Supervise field technicians across electrical/mechanical tasks ensuring safety and documentation. Assign/monitor tasks, check workmanship/safety, and maintain daily reports.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 62,
+            "age_range": "23–35 years"
+        },
+        {
+            "job_title": "ITI Welder (Fabrication/Structural)",
+            "brief": "Structural fabrication and welding (SMAW/MIG) as per drawings and safety standards.",
+            "job_description": "Execute structural fabrication and welding works per drawings and safety standards. Perform SMAW/MIG welding, follow drawings/fit-ups, and maintain tools and safety compliance.",
+            "salary_range": "₹3,00,000–₹3,60,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 450,
+            "age_range": "21–45 years"
+        },
+        {
+            "job_title": "ITI Fitter",
+            "brief": "Fitting and assembly for structures/mechanical systems with safe tool handling.",
+            "job_description": "Carry out fitting and assembly tasks for structures and mechanical systems at sites/workshops. Responsibilities include assembly/alignment/tightening, interpreting mechanical drawings, and tool handling with safety compliance.",
+            "salary_range": "₹3,48,000–₹3,96,000 LPA",
+            "locations": [
+                "Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"
+            ],
+            "vacancies": 450,
+            "age_range": "21–35 years"
+        }
+    ]
+}

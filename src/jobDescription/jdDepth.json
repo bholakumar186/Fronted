@@ -1,0 +1,415 @@
+[
+  {
+    "id": "office-boy-helper",
+    "job_title": "Office Boy / Helper",
+    "job_description": "Support office upkeep and routine assistance to staff, ensuring cleanliness and timely help.",
+    "key_responsibilities": [
+      "Maintain office cleanliness and pantry",
+      "Deliver files and assist staff",
+      "Handle basic errands and courier work"
+    ],
+    "required_skills": [
+      "10th Pass",
+      "0–1 year (freshers welcome)",
+      "Honest, punctual, cooperative"
+    ],
+    "nice_to_have_skills": [
+      "Basic communication",
+      "Service attitude"
+    ],
+    "salary_range": "₹1,80,000–₹2,16,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 260,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "cleaner-housekeeping-staff",
+    "job_title": "Cleaner / Housekeeping Staff",
+    "job_description": "Maintain cleanliness and hygiene across office/site facilities with discipline and reliability.",
+    "key_responsibilities": [
+      "Daily cleaning and waste disposal",
+      "Support pantry and meeting setups",
+      "Follow hygiene and safety practices"
+    ],
+    "required_skills": [
+      "8th/10th Pass",
+      "0–1 year (freshers welcome)",
+      "Physically fit and responsible"
+    ],
+    "nice_to_have_skills": [
+      "Basic communication",
+      "Team orientation"
+    ],
+    "salary_range": "₹1,80,000–₹2,16,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 510,
+    "age_range": "19–35 years"
+  },
+  {
+    "id": "security-guard",
+    "job_title": "Security Guard",
+    "job_description": "Safeguard premises, control entry/exit, patrol, and support emergency response.",
+    "key_responsibilities": [
+      "Access control and patrolling",
+      "Incident logging and reporting",
+      "Coordinate during emergencies"
+    ],
+    "required_skills": [
+      "Minimum 10th Pass",
+      "Good fitness and alertness",
+      "0–1 year experience; basic local language"
+    ],
+    "nice_to_have_skills": [
+      "Basic English communication",
+      "First-aid awareness"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 250,
+    "age_range": "21–45 years"
+  },
+  {
+    "id": "data-entry-operator",
+    "job_title": "Data Entry Operator",
+    "job_description": "Enter and verify data with accuracy; maintain records and generate routine reports.",
+    "key_responsibilities": [
+      "Accurate data entry and validation",
+      "Maintain spreadsheets and documents",
+      "Support reporting and filing"
+    ],
+    "required_skills": [
+      "12th/Graduate (any stream)",
+      "Good MS Office skills",
+      "0–1 year (freshers welcome)"
+    ],
+    "nice_to_have_skills": [
+      "Fast typing speed",
+      "Basic Excel formulas"
+    ],
+    "salary_range": "₹2,00,000–₹2,40,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 110,
+    "age_range": "19–35 years"
+  },
+  {
+    "id": "storekeeper",
+    "job_title": "Storekeeper",
+    "job_description": "Manage receipts, issues, and stock records for project/site stores with accuracy and discipline.",
+    "key_responsibilities": [
+      "Maintain GRN/issue registers and bin cards",
+      "Do cycle counts and stock reconciliation",
+      "Coordinate with procurement and site teams"
+    ],
+    "required_skills": [
+      "12th/Graduate (any stream)",
+      "Basic MS Excel; 0–1 year experience",
+      "Detail-oriented and disciplined"
+    ],
+    "nice_to_have_skills": [
+      "ERP exposure",
+      "Inventory control basics"
+    ],
+    "salary_range": "₹2,40,000–₹2,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 48,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "lineman-electrical-solar",
+    "job_title": "Line Man (Electrical/Solar)",
+    "job_description": "Assist line erection and maintenance; perform wiring at heights using proper safety gear.",
+    "key_responsibilities": [
+      "Support line erection and maintenance",
+      "Use safety harness and follow line safety",
+      "Handle tools and basic wiring"
+    ],
+    "required_skills": [
+      "10th Pass or ITI (Electrician/Wireman)",
+      "0–1 year (freshers welcome)",
+      "Physically fit; comfortable at heights"
+    ],
+    "nice_to_have_skills": [
+      "Pole climbing skills",
+      "Basic circuit understanding"
+    ],
+    "salary_range": "₹2,40,000–₹2,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 510,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "electrician",
+    "job_title": "Electrician",
+    "job_description": "Support electrical works in solar projects and facilities, including wiring, terminations, and basic maintenance.",
+    "key_responsibilities": [
+      "Perform wiring, terminations, and panel work",
+      "Assist in testing and troubleshooting",
+      "Follow electrical safety procedures"
+    ],
+    "required_skills": [
+      "ITI/Diploma in Electrician",
+      "0–2 years (freshers welcome)",
+      "Basic circuit and tool knowledge"
+    ],
+    "nice_to_have_skills": [
+      "LT/HT exposure",
+      "Reading basic schematics"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 730,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "om-technician-solar",
+    "job_title": "O&M Technician (Solar)",
+    "job_description": "Execute maintenance tasks in solar plants under O&M engineers to maintain uptime and safety.",
+    "key_responsibilities": [
+      "Perform routine checks and cleaning",
+      "Assist in inverter/HT panel maintenance",
+      "Record readings and support fault repair"
+    ],
+    "required_skills": [
+      "ITI (Electrician/Fitter)",
+      "0–2 years (freshers welcome)",
+      "Electrical safety basics"
+    ],
+    "nice_to_have_skills": [
+      "Experience with BOS components",
+      "First-aid/HSE awareness"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 40,
+    "age_range": "22–35 years"
+  },
+  {
+    "id": "junior-accountant-clerk",
+    "job_title": "Junior Accountant Clerk",
+    "job_description": "Assist accounts team with entries, vouchers, reconciliations, and basic compliance.",
+    "key_responsibilities": [
+      "Record vouchers and expenses",
+      "Do bank and vendor reconciliations",
+      "Maintain files and assist audits"
+    ],
+    "required_skills": [
+      "12th (Commerce mandatory); B.Com/M.Com/BBA preferred",
+      "1–2 years",
+      "Experienced in Tally and Excel"
+    ],
+    "nice_to_have_skills": [
+      "GST/TDS basics",
+      "Good documentation habits"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 60,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "computer-operator",
+    "job_title": "Computer Operator",
+    "job_description": "Provide computer and office software support including data preparation, formatting, and prints.",
+    "key_responsibilities": [
+      "Operate MS Word/Excel for documents",
+      "Prepare reports and letters",
+      "Maintain digital records and backups"
+    ],
+    "required_skills": [
+      "12th Pass (any stream)",
+      "MS Office basics; typing 30+ WPM (preferred)",
+      "0–1 year (freshers welcome)"
+    ],
+    "nice_to_have_skills": [
+      "Google Workspace",
+      "Basic troubleshooting"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 80,
+    "age_range": "19–35 years"
+  },
+  {
+    "id": "technician-grade-substation",
+    "job_title": "Technician (Grade) – Substation",
+    "job_description": "Operate and maintain HT/LT switchgear and substation equipment safely and reliably.",
+    "key_responsibilities": [
+      "Operate SF6/VCB/ACB breakers and relays",
+      "Follow PTW and safety procedures",
+      "Read diagrams and SOPs; log events"
+    ],
+    "required_skills": [
+      "ITI/Diploma in Electrical",
+      "0–2 years in HT/LT & substation ops",
+      "Protection systems familiarity"
+    ],
+    "nice_to_have_skills": [
+      "Fault-finding and isolation skills"
+    ],
+    "salary_range": "₹2,82,000–₹3,00,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 52,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "solar-technician-installer",
+    "job_title": "Solar Technician / Installer",
+    "job_description": "Carry out on-site installation of solar components and assist engineers in wiring, fixing, and basic testing.",
+    "key_responsibilities": [
+      "Install modules, mounts, and conduits",
+      "Assist in DC/AC wiring and terminations",
+      "Follow HSE and quality instructions",
+      "Maintain basic tools and site housekeeping"
+    ],
+    "required_skills": [
+      "ITI/Diploma (Electrician or Fitter)",
+      "0–2 years (freshers with training welcome)",
+      "Basic knowledge of tools and wiring"
+    ],
+    "nice_to_have_skills": [
+      "Rooftop/ground-mount exposure",
+      "Electrical safety awareness"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 240,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "civil-supervisor",
+    "job_title": "Civil Supervisor",
+    "job_description": "Supervise civil works at project sites ensuring adherence to drawings, quality, and safety standards.",
+    "key_responsibilities": [
+      "Oversee excavation, foundations, RCC works",
+      "Verify construction against drawings/BOQ",
+      "Maintain quality and safety checks",
+      "Daily progress reporting"
+    ],
+    "required_skills": [
+      "Diploma in Civil Engineering",
+      "0–2 years (freshers welcome)",
+      "Read drawings; basic QA/QC"
+    ],
+    "nice_to_have_skills": [
+      "Solar foundations experience",
+      "AutoCAD basics"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 62,
+    "age_range": "21–35 years"
+  },
+  {
+    "id": "sales-executive-solar-industrial-retail",
+    "job_title": "Sales Executive (Solar/Industrial/Retail)",
+    "job_description": "Generate and close sales for solar/industrial offerings with field outreach and lead management.",
+    "key_responsibilities": [
+      "Identify prospects and conduct meetings",
+      "Prepare quotes and close orders",
+      "Maintain sales MIS/CRM",
+      "Coordinate post-sales handover"
+    ],
+    "required_skills": [
+      "Graduate (BBA/B.Com preferred)",
+      "0–1 year sales experience",
+      "Strong communication/presentation"
+    ],
+    "nice_to_have_skills": [
+      "Solar/technical product knowledge",
+      "Two-wheeler for local visits"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 210,
+    "age_range": "22–35 years"
+  },
+  {
+    "id": "fire-fighting-technician",
+    "job_title": "Fire Fighting Technician",
+    "job_description": "Install and maintain fire protection systems complying with NBC/IS codes.",
+    "key_responsibilities": [
+      "Maintain fire pumps, alarm panels, extinguishers",
+      "Assist in fire drills and inspections",
+      "Keep records and safety compliance"
+    ],
+    "required_skills": [
+      "ITI/Diploma in Fire & Safety/Mechanical/Electrical",
+      "0–2 years hands-on experience",
+      "Knowledge of NBC/IS norms"
+    ],
+    "nice_to_have_skills": [
+      "Basic reporting and communication"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 55,
+    "age_range": "25–35 years"
+  },
+  {
+    "id": "technician-supervisor",
+    "job_title": "Technician Supervisor",
+    "job_description": "Supervise field technicians across electrical/mechanical tasks ensuring safety and documentation.",
+    "key_responsibilities": [
+      "Assign and monitor technician tasks",
+      "Check workmanship and safety",
+      "Maintain daily reports"
+    ],
+    "required_skills": [
+      "ITI/Diploma (Electrical/Mechanical/related)",
+      "0–2 years in supervision",
+      "Hands-on system knowledge"
+    ],
+    "nice_to_have_skills": [
+      "On-site documentation skills"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 62,
+    "age_range": "23–35 years"
+  },
+  {
+    "id": "iti-welder-fabrication-structural",
+    "job_title": "ITI Welder (Fabrication/Structural)",
+    "job_description": "Execute structural fabrication and welding works per drawings and safety standards.",
+    "key_responsibilities": [
+      "Perform SMAW/MIG welding as required",
+      "Follow drawings and fit-ups",
+      "Maintain tools and safety compliance"
+    ],
+    "required_skills": [
+      "Minimum 10th Pass; ITI Welder preferred",
+      "Hands-on welding/fabrication skills"
+    ],
+    "nice_to_have_skills": [
+      "Reading fabrication drawings",
+      "Basic QA (visual inspection) skills"
+    ],
+    "salary_range": "₹3,00,000–₹3,60,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 450,
+    "age_range": "21–45 years"
+  },
+  {
+    "id": "iti-fitter",
+    "job_title": "ITI Fitter",
+    "job_description": "Carry out fitting and assembly tasks for structures and mechanical systems at sites/workshops.",
+    "key_responsibilities": [
+      "Assembly, alignment, and tightening",
+      "Interpret mechanical drawings",
+      "Tool handling and safety compliance"
+    ],
+    "required_skills": [
+      "ITI Fitter (required)",
+      "0–1 year experience (freshers welcome)"
+    ],
+    "nice_to_have_skills": [
+      "Fabrication/erection exposure",
+      "Team discipline and punctuality"
+    ],
+    "salary_range": "₹3,48,000–₹3,96,000 LPA",
+    "locations": ["Pan-India (focus: Bihar, Jharkhand, Uttar Pradesh)"],
+    "vacancies": 450,
+    "age_range": "21–35 years"
+  }
+]
+  
