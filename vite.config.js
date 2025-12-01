@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://localhost:5000',
+        target: 'https://backend-void.onrender.com/',
         changeOrigin: true,
       }
     }
