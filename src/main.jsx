@@ -10,7 +10,7 @@ import axios from 'axios';
 
 // Set global axios baseURL from Vite env variable. When you build for production
 // create a `.env.production` with `VITE_API_URL=https://api.example.com`.
-axios.defaults.baseURL = import.meta.env.VITE_API_URL || '/';
+axios.defaults.baseURL = "https://backend-void.onrender.com"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
